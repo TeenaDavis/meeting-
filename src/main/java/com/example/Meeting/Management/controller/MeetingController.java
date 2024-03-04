@@ -1,6 +1,7 @@
 package com.example.Meeting.Management.controller;
 
 import com.example.Meeting.Management.data.Meeting;
+import com.example.Meeting.Management.dto.MeetingDTO;
 import com.example.Meeting.Management.repository.MeetingRepository;
 import com.example.Meeting.Management.service.MeetingService;
 import org.springframework.beans.factory.annotation.Autowired;
